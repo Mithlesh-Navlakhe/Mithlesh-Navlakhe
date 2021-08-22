@@ -24,9 +24,10 @@ Anyone can also contact me via : (mithlesh.navlakhe@gmail.com)
 
 | Skill  | Technologies used to work or Known  |
 | :------------ |:---------------:|
-| `Programming` | Python, Flask, Xamarin, Objective-C, Swift, PHP, Laravel, Wordpress, Javascript, HTML5 etc |
-| `Programming` | Python, Flask, Xamarin, Objective-C, Swift, PHP, Laravel, Wordpress, Javascript, HTML5 etc |
-| `Programming` | Python, Flask, Xamarin, Objective-C, Swift, PHP, Laravel, Wordpress, Javascript, HTML5 etc |
+| `Python` | Flask, Numpy, Pandas, Spark, Matplotlib, Seaborn, Scikit-Learn, Web API creation, Pulling data from Hybrid/MySql |
+| `Machine Learning	` | Linear Regression, Logistic Regression, Decision Tree, Support vector machine, Naive Bayes, Ensemble technique, Hyper parameter tunning |
+| `Ionic/Xamarin/iOS` | Cordova, Angular, C#, Objective-C, Swift, Xcode, Hybrid app developement for (Android/iOS) |
+| `PHP` | PHP, Angular, codeigniter, laravel, Web API development |
 
 
 <!--
