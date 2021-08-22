@@ -9,10 +9,6 @@ Strong knowledge of Visual Studio code, Visual Studio, Xcode, different versions
 
 #### Get all items
 
-```http
-  GET /api/items
-```
-
 | Skill |  Technologies worked on       |
 | :--------  :------------------------- |
 | `Programming` | Python,Scala, C , C++ , Java |
