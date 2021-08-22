@@ -6,7 +6,7 @@ Keen application development with 11+ years of experience. Hands-on technologies
 Strong knowledge of Visual Studio code, Visual Studio, Xcode, different versions of iOS, and how to deal with different screen sizes(iPhone, iPad). Web services integration with xml, json. Sqlite database & its implementation with application. I am good at designing and developing standard mobile apps with Xamarin, Ionic and Angular respectively. Creation of Web API using Flask.
 
 [Anyone can also contact me via] : 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Find me") (mithlesh.navlakhe@gmail.com)
+![alt text](https://github.com/Mithlesh-Navlakhe/Mithlesh-Navlakhe/blob/main/Images/gmail.png "Find me") (mithlesh.navlakhe@gmail.com)
 
 ## Job Responsiblities
 
