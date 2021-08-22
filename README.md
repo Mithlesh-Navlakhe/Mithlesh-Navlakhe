@@ -10,7 +10,7 @@ Strong knowledge of Visual Studio code, Visual Studio, Xcode, different versions
 #### Get all items
 
 | Skill |  Technologies worked on       |
-| :--------  :------------------------- |
+| :--------  |:------------------------- |
 | `Programming` | Python,Scala, C , C++ , Java |
 | `DataBase` | SQL, Sqlite, MySql |
 | `Tools/ IDE	` | VSCode, Jupyter Notebook, Xcode, Visual Studio |
