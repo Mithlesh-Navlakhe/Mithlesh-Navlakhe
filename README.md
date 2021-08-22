@@ -20,6 +20,12 @@ Strong knowledge of Visual Studio code, Visual Studio, Xcode, different versions
 | `Operating System	` | MacOs, Windows |
 | `Version control` | GIT |
 
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
+
 
 <!--
 **Mithlesh-Navlakhe/Mithlesh-Navlakhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
