@@ -20,11 +20,13 @@ Anyone can also contact me via : (mithlesh.navlakhe@gmail.com)
 | `Operating System	` | MacOs, Windows |
 | `Version control` | GIT |
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+##  Skill Elaboration
+
+| Skill  | Technologies used to work or Known  |
+| :------------ |:---------------:|
+| `Programming` | Python, Flask, Xamarin, Objective-C, Swift, PHP, Laravel, Wordpress, Javascript, HTML5 etc |
+| `Programming` | Python, Flask, Xamarin, Objective-C, Swift, PHP, Laravel, Wordpress, Javascript, HTML5 etc |
+| `Programming` | Python, Flask, Xamarin, Objective-C, Swift, PHP, Laravel, Wordpress, Javascript, HTML5 etc |
 
 
 <!--
