@@ -1,4 +1,7 @@
-### Hi there 👋
+# Greetings Respected viewers 👋
+
+This is Mithlesh Navlakhe and I am a Data Science enthusiast. I have insights into Machine Learning, and Deep Learning, I am extending myself towards Data Scientist. I live in Indore.
+
 
 <!--
 **Mithlesh-Navlakhe/Mithlesh-Navlakhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
